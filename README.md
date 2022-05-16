@@ -6,4 +6,4 @@ The projects will be done, committed, and pushed from Mon to Fri.
 #### . [Project 1: Expanding cards (11/05/2022)](./01-expanding-cards)
 #### . [Project 2: Progress steps (12/05/2022)](./02-progress-steps) 
 #### . [Project 3: Rotating navigation (13/05/2022)](./03-rotating-navigation)
-#### . [Project 3: Hidden-Search Widget (16/05/2022)](./04-hidden-search-widget)
+#### . [Project 4: Hidden-Search Widget (16/05/2022)](./04-hidden-search-widget)
