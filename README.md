@@ -10,3 +10,4 @@ The projects will be done, committed, and pushed from Mon to Fri.
 #### . [Project 5: Blurry Loading (17/05/2022)](./05-blurry-loading)
 #### . [Project 6: Scroll Animation (18/05/2022)](./06-scroll-animation)
 #### . [Project 7: Split Landing Page (19/05/2022)](./07-split-landing-page)
+#### . [Project 8: Form Wave (20/05/2022)](./08-form-wave)
