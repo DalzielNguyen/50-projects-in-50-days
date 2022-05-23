@@ -11,3 +11,4 @@ The projects will be done, committed, and pushed from Mon to Fri.
 #### . [Project 6: Scroll Animation (18/05/2022)](./06-scroll-animation)
 #### . [Project 7: Split Landing Page (19/05/2022)](./07-split-landing-page)
 #### . [Project 8: Form Wave (20/05/2022)](./08-form-wave)
+#### . [Project 9: Sound Board (23/05/2022)](./09-sound-board)
