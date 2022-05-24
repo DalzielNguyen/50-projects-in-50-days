@@ -12,3 +12,4 @@ The projects will be done, committed, and pushed from Mon to Fri.
 #### . [Project 7: Split Landing Page (19/05/2022)](./07-split-landing-page)
 #### . [Project 8: Form Wave (20/05/2022)](./08-form-wave)
 #### . [Project 9: Sound Board (23/05/2022)](./09-sound-board)
+#### . [Project 10: Dad Jokes (24/05/2022)](./10-dad-jokes)
