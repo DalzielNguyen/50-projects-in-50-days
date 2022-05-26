@@ -14,3 +14,4 @@ The projects will be done, committed, and pushed from Mon to Fri.
 #### . [Project 9: Sound Board (23/05/2022)](./09-sound-board)
 #### . [Project 10: Dad Jokes (24/05/2022)](./10-dad-jokes)
 #### . [Project 11: Event Keycodes (25/05/2022)](./11-event-keycodes)
+#### . [Project 12: FQA Collapse (26/05/2022)](./12-faq-collapse)
