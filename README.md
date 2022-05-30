@@ -16,3 +16,4 @@ The projects will be done, committed, and pushed from Mon to Fri.
 #### . [Project 11: Event Keycodes (25/05/2022)](./11-event-keycodes)
 #### . [Project 12: FQA Collapse (26/05/2022)](./12-faq-collapse)
 #### . [Project 13: Random Choice Picker (27/05/2022)](./13-random-choice-picker)
+#### . [Project14: Animated Navigation (30/05/2022)](./14-animated-navigation)
