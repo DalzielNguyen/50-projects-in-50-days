@@ -18,3 +18,4 @@ The projects will be done, committed, and pushed from Mon to Fri.
 #### . [Project 13: Random Choice Picker (27/05/2022)](./13-random-choice-picker)
 #### . [Project 14: Animated Navigation (30/05/2022)](./14-animated-navigation)
 #### . [Project 15: Incrementing Counter (31/05/2022)](./15-incrementing-counter)
+#### . [Project 16: Drink Water (01/06/2022)](./16-drink-water)
