@@ -20,3 +20,4 @@ The projects will be done, committed, and pushed from Mon to Fri.
 #### . [Project 15: Incrementing Counter (31/05/2022)](./15-incrementing-counter)
 #### . [Project 16: Drink Water (01/06/2022)](./16-drink-water)
 #### . [Project 17: Movie Application (02/06/2022)](./17-movie-application)
+#### . [Project 18: Background Slider (03/06/2022)](./18-background-slider)
