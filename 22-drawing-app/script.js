@@ -10,6 +10,7 @@ const ctx = canvas.getContext('2d');
 
 let x, y;
 let size = 10;
+sizeEl.innerText = size;
 let isPressed = false;
 colorEl.value = 'black';
 let color = colorEl.value;
