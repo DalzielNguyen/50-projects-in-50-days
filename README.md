@@ -24,3 +24,4 @@ The projects will be done, committed, and pushed from Mon to Fri.
 #### . [Project 19: Theme Clock (06/06/2022)](./19-theme-clock)
 #### . [Project 20: Button Ripple Effect (07/06/2022)](./20-button-ripple-effect)
 #### . [Project 21: Drag N Drop (08/06/2022)](./21-drag-n-drop)
+#### . [Project 22: Drawing App (09/06/2022)](./22-drawing-app)
