@@ -28,3 +28,4 @@ The projects will be done, committed, and pushed from Mon to Fri.
 #### . [Project 23: Kinetic CSS Loader (10/06/2022)](./23-kinetic-css-loader)
 #### . [Project 24: Content Placeholder (13/06/2022)](./24-content-placeholder)
 #### . [Project 25: Sticky Navbar (14/06/2022)](./25-sticky-navbar)
+#### . [Project 26: Double Vertical Slider (15/06/2022)](./26-double-vertical-slider)
