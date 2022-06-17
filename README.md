@@ -30,3 +30,4 @@ The projects will be done, committed, and pushed from Mon to Fri.
 #### . [Project 25: Sticky Navbar (14/06/2022)](./25-sticky-navbar)
 #### . [Project 26: Double Vertical Slider (15/06/2022)](./26-double-vertical-slider)
 #### . [Project 27: Toast Notification (16/06/2022)](./27-toast-notification)
+#### . [Project 28: Github Profiles (17/06/2022)](./28-github-profiles)
