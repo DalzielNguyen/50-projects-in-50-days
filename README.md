@@ -31,3 +31,4 @@ The projects will be done, committed, and pushed from Mon to Fri.
 #### . [Project 26: Double Vertical Slider (15/06/2022)](./26-double-vertical-slider)
 #### . [Project 27: Toast Notification (16/06/2022)](./27-toast-notification)
 #### . [Project 28: Github Profiles (17/06/2022)](./28-github-profiles)
+#### . [Project 29: Double Heart Click (20/06/2022)](./29-double-heart-click)
