@@ -33,3 +33,4 @@ The projects will be done, committed, and pushed from Mon to Fri.
 #### . [Project 28: Github Profiles (17/06/2022)](./28-github-profiles)
 #### . [Project 29: Double Heart Click (20/06/2022)](./29-double-heart-click)
 #### . [Project 30: Auto Text Effect (21/06/2022)](./30-auto-text-effect)
+#### . [Project 31: Password Generator (22/06/2022)](./31-password-generator)
