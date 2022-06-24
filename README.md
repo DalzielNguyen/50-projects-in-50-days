@@ -34,4 +34,5 @@ The projects will be done, committed, and pushed from Mon to Fri.
 #### . [Project 29: Double Heart Click (20/06/2022)](./29-double-heart-click)
 #### . [Project 30: Auto Text Effect (21/06/2022)](./30-auto-text-effect)
 #### . [Project 31: Password Generator (22/06/2022)](./31-password-generator)
-#### . [Project 32: Good, Cheap, Fast Checkboxes](./32-good-cheap-fast-checkboxes)
+#### . [Project 32: Good, Cheap, Fast Checkboxes (23/06/2022)](./32-good-cheap-fast-checkboxes)
+#### . [Project 33: Notes App (24/06/2022)](./33-notes-app)
