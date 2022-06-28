@@ -37,3 +37,4 @@ The projects will be done, committed, and pushed from Mon to Fri.
 #### . [Project 32: Good, Cheap, Fast Checkboxes (23/06/2022)](./32-good-cheap-fast-checkboxes)
 #### . [Project 33: Notes App (24/06/2022)](./33-notes-app)
 #### . [Project 34: Animated Countdown (27/06/2022)](./34-animated-countdown)
+#### .[Project 35: Image Carousel (28/06/2022)](./35-image-carousel)
