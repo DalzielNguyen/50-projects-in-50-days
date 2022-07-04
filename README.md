@@ -41,3 +41,4 @@ The projects will be done, committed, and pushed from Mon to Fri.
 #### .[Project 36: Hoverboard (29/06/2022)](./36-hoverboard)
 #### .[Project 37: Pokedex (30/06/2022)](./37-pokedex)
 #### .[Project 38: Mobile Tab Navigation (01/07/2022)](./38-mobile-tab-navigation)
+#### .[Project 39: Password Strength Background (04/07/2022)](./39-password-strength-background)
