@@ -43,3 +43,4 @@ The projects will be done, committed, and pushed from Mon to Fri.
 #### .[Project 38: Mobile Tab Navigation (01/07/2022)](./38-mobile-tab-navigation)
 #### .[Project 39: Password Strength Background (04/07/2022)](./39-password-strength-background)
 #### .[Project 40: 3D Background Boxes (05/07/2022)](./40-3d-background-boxes)
+#### . [Project 41: Verify Account UI (06/07/2022)](./41-verify-account-ui)
