@@ -45,3 +45,4 @@ The projects will be done, committed, and pushed from Mon to Fri.
 #### . [Project 40: 3D Background Boxes (05/07/2022)](./40-3d-background-boxes)
 #### . [Project 41: Verify Account UI (06/07/2022)](./41-verify-account-ui)
 #### . [Project 42: Live User Filter (07/07/2022)](./42-live-user-filter)
+#### . [Project 43: Feedback UI Design (08/07/2022)](./43-feedback-ui-design)
