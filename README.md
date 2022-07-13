@@ -48,3 +48,4 @@ The projects will be done, committed, and pushed from Mon to Fri.
 #### . [Project 43: Feedback UI Design (08/07/2022)](./43-feedback-ui-design)
 #### . [Project 44: Custom Range Slider (09/07/2022)](./44-custom-range-slider)
 #### . [Project 45: Netflix Navigation (10/07/2022)](./45-netflix-navigation)
+#### . [Project 46: Quiz Application (11/07/2022)](./46-quiz-app)
