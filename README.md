@@ -1,7 +1,7 @@
 # 50-projects-in-50-days
 
 ## Challenge Start: 11/05/2022
-The projects will be done, committed, and pushed from Mon to Fri.
+Submit from Mon to Fri every week.
 ## Project List
 #### . [Project 1: Expanding cards (11/05/2022)](./01-expanding-cards)
 #### . [Project 2: Progress steps (12/05/2022)](./02-progress-steps) 
@@ -50,3 +50,4 @@ The projects will be done, committed, and pushed from Mon to Fri.
 #### . [Project 45: Netflix Navigation (12/07/2022)](./45-netflix-navigation)
 #### . [Project 46: Quiz Application (13/07/2022)](./46-quiz-app)
 #### . [Project 47: Testimonial Box Switcher (14/07/2022)](./47-testimonial-box-switcher)
+#### . [Project 48: Random Image Feed (15/07/2022)](./48-random-image-feed)
