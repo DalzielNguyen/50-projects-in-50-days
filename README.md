@@ -51,3 +51,4 @@ Submit from Mon to Fri every week.
 #### . [Project 46: Quiz Application (13/07/2022)](./46-quiz-app)
 #### . [Project 47: Testimonial Box Switcher (14/07/2022)](./47-testimonial-box-switcher)
 #### . [Project 48: Random Image Feed (15/07/2022)](./48-random-image-feed)
+#### . [Project 49: Todo List (18/07/2022)](./49-todo-list)
