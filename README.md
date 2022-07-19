@@ -52,3 +52,4 @@ Submit from Mon to Fri every week.
 #### . [Project 47: Testimonial Box Switcher (14/07/2022)](./47-testimonial-box-switcher)
 #### . [Project 48: Random Image Feed (15/07/2022)](./48-random-image-feed)
 #### . [Project 49: Todo List (18/07/2022)](./49-todo-list)
+#### . [Project 50: Insect Catch Game (19/07/2022)](./50-insect-catch-game)
